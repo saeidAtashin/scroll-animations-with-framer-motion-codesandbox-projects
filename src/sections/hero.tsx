@@ -43,7 +43,7 @@ export const Hero = () => {
           <span className="font-medium">Projects</span> Beta
         </p>
         <p className="mb-8 text-center text-xs font-light text-text">
-          by{" "}
+          to{" "}
           <a
             href="https://www.codesandbox.com"
             target="_blank"
